@@ -32,3 +32,12 @@ https://gitee.com/wht1275930132/paper-crawler.git
 
 我现在改了第一次
  https://github.com/FlypigW/requestSCIHUB.git
+echo "# testofliearn" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/FlypigW/requestSCIHUB.git
+git push -u origin main
+
+
